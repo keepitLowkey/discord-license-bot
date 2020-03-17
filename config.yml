@@ -1,0 +1,21 @@
+# Discord bot run token
+TOKEN: 'TOKEN'
+
+# Bot prefix
+Prefix: '!'
+
+# Role ID   associete to the VIP ACCESS
+RoleName: 'VIP features'
+
+# Name of the .txt file with your serial/key/license
+SerialFile: 'serial.txt'
+
+# VALID KEY - EMBED - Message sent by the bot
+ValidTitle: 'User upgraded'
+ValidName: 'Thanks for your purchase'
+ValidValue: 'VIP ACCESS'
+ValidFooter: 'License Bot by djaquilexe'
+
+# INVALID KEY - EMBED - Message sent by the bot
+InvalidTitle: 'Invalid Key !'
+InvalidFooter: 'License Bot by djaquilexe'
