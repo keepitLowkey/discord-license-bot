@@ -4,10 +4,10 @@ TOKEN: 'TOKEN'
 # Bot prefix
 Prefix: '!'
 
-# Role ID   associete to the VIP ACCESS
+# Role name, role you want add 
 RoleName: 'VIP features'
 
-# Name of the .txt file with your serial/key/license
+# Name of the .txt file where your serial/key/license are stored
 SerialFile: 'serial.txt'
 
 # VALID KEY - EMBED - Message sent by the bot
