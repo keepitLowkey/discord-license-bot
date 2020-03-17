@@ -10,3 +10,8 @@ REQUIEREMENTS :
 HOW TO CONFIGURE ?
 - edit the config.yml file
 - run the bot.
+
+HOW TO USE ?
+- when the bot is launched, use the command "-upgrade SERIAL" (replace serial by one of the serial store in your serial file)
+- example :  -upgrade 123456789
+- you can edit the command name directly in the .py files (LINES n°20)
